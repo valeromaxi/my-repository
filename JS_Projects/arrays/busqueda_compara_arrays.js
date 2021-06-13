@@ -204,6 +204,8 @@ const findMyKeys = key => key.indexOf('keys');
 const randomStuff = ['credit card', 'screwdriver', 'receipt', 'gum', 'keys', 'used gum', 'plastic spoon'];
 
 console.log(findMyKeys(randomStuff));
+//cambio para prueba de git
+
 
 
 
