@@ -9,3 +9,4 @@ const msjGenerator = (newArr) => {
 }
 
 console.log(msjGenerator(arrMjs));
+
